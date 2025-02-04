@@ -30,3 +30,8 @@ ale one nie sa jakby tak bardzo human readable wiec jakby to jest cos w stylu  o
 natomiast te mocne szyfry to cos w rodziaju m bardzo mocnej koperty ktoer ktorej praktycznie nie da sie 
 
 no np jest cos takiego jak jakies zapomieane alfabety czy pisama starozytne i one np nie sa human readable juz nie waidomo co znacza al a nie sa zaszyfrowane jakby to tez nei to samo
+
+
+z tym szyfrowaniem to jest tak ze oprocz zwykle rozumianego szyforwania symetrycznego z kluczem ktory trzeba miec ale latwo skompiowa skopiowac klcucz to sa popularne algorytmy niesymetryczne
+czyyli jakby jedna strona udostepnia jakby tkaie kopery koperty kasetki z zatrzaskiem ze tam mozna wlozyc cokolwiek i potem zatrzasnac i otworzyc moze tylko ta strona co kasetke koperte udostepnila
+bo ona ma taki klucz specjalny tkaie cos troche pbsrdziej skompoliokwane ale cos w tyn ten desen   takze mozna cos komus poufnie wyslac bez s jakby tego ryzyka przejecia klucza 
