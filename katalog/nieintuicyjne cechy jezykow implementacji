@@ -1,0 +1,32 @@
+e wezmy jezyk maszynowy i assembler assemblerowy
+
+mowi sie ze jezyk maszynowy no nie jest skryptowy ale np pod dosem dawno temu mozna bylo tak pliki .com wykonywalne czyli w zasadzie binarki maszynowe przygotowac zeby byly jakby stanowily calosc jakies prog proste
+pod programiki podprogramiki robiace proste rzeczy a potem zeby sie dalo je umieszczajac kopiujac jedna za druigim jakby przygotowujac w prosty sposob takie sklejecnie pliku zeby dostac jakby skrypt ktory bylyby
+no kolejnym zlozeniem kolejnych podprogramikow i jakby no jest to troche skryptowo skryptowe i tka sie da
+
+mowi ze sie ze assembler nie jest skryptowey ale dawno temu pod dosem bylo d takie cos jak debug.te debug.ee i debug.exe i tam dalo sie te jakby kody zrodlowe assemblerowe jakby wpisywac bezposrednioe i r uruchamiac tj
+interpretowac a wiec jakby te programy w wtedy byly skryptami
+
+wiec jakby jest to troche kwestia szczegolow implementacyjnych co jest skryptowe a  tj czy moze byc jakby wykonane poprzez interpretacje jakby inkrementalna nieco moze be z tego kroku przygotowania pliku kolejnego wykonywalnego binarnego
+
+
+jeszcze jest cos tkaiego jak jezyi jezyki z funkcja eval  no i tu znowu smiesznie bo jezyk maszynowy to jakby eval ma wbudowany a assembler eval wbudowanego nie ma takie tez polintuicyjne  ale zasadnionczo pjakis eval mniej lub
+bardziej ograniczony zwykle daje sie poprzez jakas biblioteke uzyskac no ale z tym assemblerem i jezykiem maszynoweym to moze jest polintuicyjne   bo wydaje sie ze w zasadzie jest rownowaznosc miedzy assemblerem a jezykiem maszynowym
+ale jakby no w sze szczegolach sie okazuje dgdzie ta rownowaznosc jakby sie niecho nieco rozmowy rozmwy rozmywa rozchodzi  no ale te assemblery jakby typowo to sa makroassemblery czyli jakby systmey przepisywania termow z takim
+dodatkiem assemblerowym ot to sie nie zauwaza jakby
+
+
+jest tez kwestia tego co jest human readaable jezykiem a co nie no i jezyk maszynowy dla niektorych osob jest jakostam human readable jakos limited moze w ok ograniczony sposob ale ttroche jest  o ile no bo nop nie jest zaszyfrowany
+jakby bylo zaszyfrowane to by sie nie dalo praktycznie odczytac dzialania programu takiego  
+
+no i human readable to nie to samo co tekstowy format  jak html 
+
+no i np sa graficzne formaty tekstowe np ppm pbm pnm ze smiesznych rzeczy  no rozne smieszne kombinacje sa praktycznie wszystko co tylko dziwne to ket ktostam kiedys wymyslil
+
+
+kwestia szyfrowania  jest cos takiego jak szyfrowanie silne czy mocne ze praktycznie sie moze nie da dac czy tak sie uwaza  ale tez jest s costa cos takiego jak proste szyfrowanie ktore jakby jest bardzo proste d to deszyfracji
+ale jakby jego stosowanie moze miec sens jako srodek artystyczny i tez powiedzmy to do zarzadzania bieganiem mysli tj takie pliki jakby nie grozi im ze sie utraci klucz do deszyfrowania i sie nie bedzie dz dalo odszyfrowac
+ale one nie sa jakby tak bardzo human readable wiec jakby to jest cos w stylu  owrocenia kartki z informacjami poufnymi zadrukowana strona do dolu no nie widac ak ale jakby co to mozna owrocic latwo i bedzie widac
+natomiast te mocne szyfry to cos w rodziaju m bardzo mocnej koperty ktoer ktorej praktycznie nie da sie 
+
+no np jest cos takiego jak jakies zapomieane alfabety czy pisama starozytne i one np nie sa human readable juz nie waidomo co znacza al a nie sa zaszyfrowane jakby to tez nei to samo
