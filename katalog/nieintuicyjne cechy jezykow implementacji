@@ -9,6 +9,8 @@ interpretowac a wiec jakby te programy w wtedy byly skryptami
 
 wiec jakby jest to troche kwestia szczegolow implementacyjnych co jest skryptowe a  tj czy moze byc jakby wykonane poprzez interpretacje jakby inkrementalna nieco moze be z tego kroku przygotowania pliku kolejnego wykonywalnego binarnego
 
+czy jezyk maszynowy jest interpretowany wydaje sie ze nie ale tez mozna stwierdzic argumentowcac ze tak bo np w starszych komputerach byl przelacznik turbo zmieniajacy czestotliwosc taktowania
+a tez i rozne r procesory z rozna jakby szybkoscia beda rozne fragmenty kodu wykonywac
 
 jeszcze jest cos tkaiego jak jezyi jezyki z funkcja eval  no i tu znowu smiesznie bo jezyk maszynowy to jakby eval ma wbudowany a assembler eval wbudowanego nie ma takie tez polintuicyjne  ale zasadnionczo pjakis eval mniej lub
 bardziej ograniczony zwykle daje sie poprzez jakas biblioteke uzyskac no ale z tym assemblerem i jezykiem maszynoweym to moze jest polintuicyjne   bo wydaje sie ze w zasadzie jest rownowaznosc miedzy assemblerem a jezykiem maszynowym
