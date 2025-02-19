@@ -84,3 +84,17 @@ strasznie szybko działają w ale właśnie ich składanie ze sobą jest no czas
 czyli jakby dawało się wtedy znaleźć nieudziwnione wcale bardzo zadanie takie że w shellu to jest jedna linijka w a w haskellu no to s już konkretny problem są takie rzeczy b y były
 
 zależy po prostu jakie bibliotek isą są dostępne i może się okazać że nie ma jeszcze takich bibliotek i trzeba pisać no i tak bywa
+
+
+
+różnica może jest taka że są języki które jakby świetnie się nadają do prototypowania czy bez eufemizmów robienia prowizorek a są takie kt z których dostaje się coś ekstremalnie precyzyjnego
+
+ale uzyskanie tego może nie być bardzó bardzo łatwe i szybkie zawsze no ale są takie zastosowania że się cce h chce mieć pewnośc pewność że program zawsze idealnie zaziała zadziała dokładnie
+
+tak jak to zostało zaplanowane jakby w każdych warunkach nawet przy milionach i więcej wi wywołań że jest no sto pe s stop sto procent poprawność skuteczność za a nie coś takiego że jest
+
+jakby wynik i on jest niby poprawny ale jakby no gwarancji nikt nie da że ten program tysiąc razy wywołany da dokładnie do to samo to co zostało zaplanowane bo tam jest jakby trylion tryliard
+
+zmiennych uy ukrytych które jakby no są tak ustawione niby sane niby sensownie ale nigdy nie wiadomo tak naprawdę co się stanie no to jest ta kwestia typów typowania a programowania no wiaodomo
+
+jakiego
