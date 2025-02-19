@@ -61,3 +61,21 @@ a pierwszy w ogóle mój kontakt z haskellme to się zakończył bo sobie nie po
 czasie było błąd w kompilatorze i po p prostu się na niego nadziałem a myślałem że to móg mój bół błąd i nie mogłem znaleźć także i tak się zdarza
 
 także to błądzenie haskellowe to jednak jest bardziej konk bardzo konkretne trafia n się na mało widoczne ale konkretne ściany względem których można się solidnie i konkretnie orientować
+
+
+tznz z tym zadaniem to chyba jakby chodziło o buforowanie tj kwestia działania onlineowego programu a inaczej niż jakby batrc batch tzw wsadowego uruchomienia tzn że nie tyle że chcemy dostać
+
+po prostu wynnik na samym konń końcu tylko nas interesuje jakby sam proces us uzyskiwania tego wyniku tzn te różne biblioteki jakby trudno było je zo ze sobą tak połączyć tzn jedną do rozkompresowywania
+
+inną od filtrowania czy greowpowania czy prasowania tych jsonów czy cośtam nie wiem czy też nie było tam jakiegoś sieciowego elementu w każdym razię razie no taka trudność jakby mniej matematyczna
+
+a bardziej jakby inżynieryjna czy coś tzn no nie tyle żeby zrobić jakkolwiek ten filtr cz tylko żeby ten filtr jego działaniae jdziałanie sposób działania był precyzyjnie określony i akurat inny
+
+niż taki ko który dało się łątwo u łatwo uzyskać z istniejących jakby klocków i bibliotek no i al wychodziło albo pisanie od zera czyli dłgu długo by to trwało jakby nieodpowiednio do zadania domowego
+
+albo jakaś no naprawdę sprytna i no wysoko wysoka znajomość różnych technik i blbiotekaek albo umiejętność ich modyfikacji tak żeby ten efekt o których chodziło zaimplementować
+
+
+z buforowaniem w haskellu jae jest jakby no albo tak edykc edukacyjnie wszystko jest leniwie alb ale jakby do konkretnych zastosowań to tam są takie jakby przyśpieszone biblioteki które
+
+strasznie szybko działają w ale właśnie ich składanie ze sobą jest no czasami się no nie udaje łatwo tak jakby wtedy było
