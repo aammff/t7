@@ -11,3 +11,20 @@ dual role  softwware director rezyser slasz slesz software developer czyli jakby
  developer to bedzie sie zajmowal albo engineering jesli bedzie wydajnoscia sie zajmowal  albo architect jak abardziej ergonomia estetyka funkcjonalnosc
 
   designer moze deklaracje  a programmer definicje  
+
+
+software tester a devlops v dded devops no to tester jakby dopelnia devopsa w ten sposob ze zajmuje sie zeby nie bylo tak ze program nie dziala
+a devops tr robi tak ze zaklada ze program jednak dziala i robi tak zeby no tak jakby realnie dzialal
+
+czyli software testing to takie prig programowanie negatywne troche to ma wspolnego z kompresja bo jednak najbardziej cenione sa krotkie scenariusze testowe
+
+jesli software testing robioney jest z zalozeniem niewspoldzielenia wiedzy z zespolem to wtedy to jest pentesting  moze tez byc ze jakas wiedza s jakby zaszyla sie samea z siebie
+no i jakby zespol tego niedostrzega no i jakby nieoczekiwanie pojawia sie jakis pentester czasami zupelnie przypakdiem ktos mogl costam do formularzea wpisac przypadkiem
+i costam sie stalo nieoczekiwanego
+
+
+czemu w oogle i kiedy jest ten testing potrzeny no bo teoretycznie to nie powinnno wy w ogole byc czegos takiego no tak ale czasami program oprogramowanie korzysta z jakichs
+systemow zewnetrznych do  no i wiadomo no jakos trzeba sprawdzic cz y dziala a szkoda recznie wszystko robic
+
+no ale tak im lepsze oprogramowanie do robienia oprogramowania tym tego testowania trzeba mniej albo wcale nawet w sensie jakby testy sa wszyste w sama nature tego oprogramowania
+tj p oprogrmowanie formalnie zweryfikowane
