@@ -1,0 +1,60 @@
+czy oprogramowanie się reżyseruje, a ano tak no bo tak
+
+załóżmy że przygotowujemy produkcję na zbliżające się compo demo party jakieś proste krótkie intro czyli jakby taka jednorazowa produkcja artystyczna
+
+powstaje jakis jakiś projekt zamysł na to co to ma być jakaś specyfikacja mniej lub bardziej techniczna jakiś po projekt
+
+dobierana jest architektura czyli zestaw sprzętu na jakim będzie oprogramowanie odtwarzane prezentowane z którego nastąpi projke projekcja
+
+cz;y pojawia się dz gdzieś iż inżynieria oprogramowania i czym mogła by być
+
+no otóż inżynieria oprogramowania to są algorytmy i struktury danych czyli takie programy które są związane z ytrz utrzymywaniem maintenance
+
+cy czyli wiedza o złożoności obliczeniowej pamięciowej itd itp to jest archite oj inżynieria właśnie bo są konkretne parametry z których można coś wnioskować dobierać optymalizować
+
+czyli jak wyreżyserować takie oprogramowanie do którego mamy scenariusz tj jakąś rozpiskę jak to ma działać konkretnie co się ma wyświetlać przykładowo tak mniej więcej
+
+jak doprowadzić do powstania takiego dzieła włas właśnie które by to zapow zapewniało a i było zgodne ze specyfikacją techiczną
+
+no przykładowo zakłada się repozytorium proje tzn no repo p typowo będzie założone czyli jest wsę wstępne założenie o jakiś build farmach i miejscach składowania oprogramowania typoowo
+
+może g to być zwykły katalog czy coś ale może to być dedykowane repo
+
+no i teraz co przykładowo wiemy że realizacja odpędz odbędzie się poprzez napisanie programu dla interpretera jakiegoś języka programowania czyli tak paradosksalnie trochę programujemy interpreter o poprzez 
+
+pisanie napisanie programu dla interpretera  ale uwaga nie chodzi tutaj nam o to że piszemy ten interpreter tylko że ale że piszemy program dla niego  ale mówim no tu się w języku polskim takie nieścisłości pojawimy\
+
+bo mówimy programujemy program a nie interpreter choć właściwie to no wieadomo przp przyogotowujemy program dla interpretera
+
+czyli poprzez przygotowywanie kolejnyc plików z kodem kodami źródłowymi dla interpretera jakby realizujemy kolejne wizje artystyczne no cy no czyli reżyserujemy te ujęcia tre te r fragmenty kodu
+
+no też następuje montaż tyc ró tych różnych r fragj fragmentów kodu przy pomocy jakichś build systemów 
+
+
+
+czyli jakby może r inżynieria oprogramowania dotyczy p bardziej bibliotek po programistycznych gdzie przy pomocy rozmaicie poskłądanych fragmentów kodu algorytmów realizowana jest jakaś funkcjonalność łatwa do ponownego użycia n uniwersalnie
+
+no a inż no a reżyseria to jakby coś j gi gdy się chce uzyskać coś jednorazowego gotowego na jakiś pokaz dzieł sztuki programistycznej czy coś  albo np może być jakaś gra przygotowana na konkretną okazję z okazji cośtam cośtam
+
+żw że wiadomo że jakby będzie to coś gotoweogo e jednorazowego
+
+
+
+no ale niewiadomo czy jakby bardoz dużo po oproramowania to jest takie ciągl ciągłe utrzymanie utrzymywanie jakby no to wtedy bardziej jest ten aspekt inżynieryjne gdzie jakby no ten aspekt artystyczny jest jakby mniejszy czy bardziej utra utrwalony
+
+
+no nie tak się to może przedstawia czy tam naucza la ale jakby myślę że coś jest na rzeczy z tym z tą reżyseria w oprogramowaniu i takie patrzenie może rozjaśnić różne zagwozdki
+
+tzbn tzn jak si no bo to jest takie sc coś software developer a software ingineer no i gdzie ten inżynier oprogramowania no i czy w ogóle je istnieje no jeśli ktoś jest obryty w algorytmach no to może ma jakąś wiedzę inżynieryjnaą np
+
+software developer to t dość ogólne pojęcie  ale też moł mogło i by być software director czyli reżyser oprogramowania powiedzmy jako osoba która  też przygotowuje opror oprogramowanie a ale takie że ten aspekt inżynieryjney jest jakby
+
+mniej zaznaczony przy tej konkretnej produkcji tzn nie wymy tzn czy korzystamy z czegoś ko gotowego czy jakby dobudowujemy inżynierie
+
+
+czy może software development można podizelić na software directing i software ingi in engini engineering o może tajak jakoś tak
+
+a software programming ot to jest jakby wynika albo z tego software directing albo z software engineering
+
+
+no ogólnie demka intra i tego typu produkcje artystyczne realizuje bardziej reżyser oprogramowania niż inżynier oprogramowania
