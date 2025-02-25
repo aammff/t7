@@ -1,0 +1,146 @@
+no prolog to jest rozwiązanie dll-hell dll hell no albo explicite to jest prolog albo implicite
+
+tzn w debianie są pakiety i manager pakietów i tam tych pakietów są dziesiątki tysięcy i daje się je bardzo łatwo dobierać w taki sposób że żaden pakiet zbędny nie będzie zainstalowany a każdy pakiet
+
+będzie działał bo wszystkie zależności równiew również zostaną odpowiednio potraktowane
+
+nie ma tam problemów z równoczesnym używaniem paru różnych wydań debiana czy różnych źródeł wszystkie zalo zależności równania takie są tak tam automatycznie rozwiązywane
+
+tzn taki e takie rozwiązanie w debianie jakby pojawiło się w wtedy w takich czasach kiedy pod windowam windowsami to było no parsknąć śmiechem można by bo tam nic nie było ryzyk fizyk kolejny program wejdzie
+
+abo albo nie wejdzie i rozwali poprzednie albo nie takie były realia windowsów kiedyś
+
+no i program do pakietów nazywa się nomen omen apt a manager pakietów aptitude
+
+tzn ta to co tu opisałem to dano dwano dwa dawno temu było jak się tym bardziej zajmowałem a teraz jakby to już jest trochę pamięć mięsniowa nie myślę w ogóle to zazwyczaj działa a jak nie działa to też
+
+jakby m pamięć my mięśniowa i nie myślę 
+
+tzn zazwyczaj no to po prostu działa i pamiętam jak się upaktua uaktualniało debiana przez te ileś lat to praktycznie zero problemów między updataeami a one bardzo skomplikowane jakby i to tak zawsze 
+
+no zdumienie zachwyt że to w ógle dzial działa  i się zawsze myślało jakie no dziadostwo jet jest na windach jaki tam syf w ogóle s a fu
+
+
+teraz jakby takie nixosy czy inne są no też popularne a ale np mi no mi się nie chce mam tu ubuntu a d a tam debiana nie pamiętam jakby no zawieruszone ale jakby c działa to co tam się chce
+
+
+gdzie jeszcze jak się w c++ programuje to te templaty to chyba są takie typy i ich jakby inferencja to też chyba jest coś w tym stylu implicite aalbo explicite
+
+no i te języki z tym typami już ofjcialnie to tam też te algoryty inferencji
+
+
+no ja si sobie tak to wyobraz wyobrażam ale ogólnei sie się nie znam
+
+
+w każdym razie jak ktoś chce znać jeden język to prolog to jest dobry wybów wybór bo jest najbardziej abstrakcyjny choć może to nie być widoczne na pierwszy rzut oka a jednoczę jednocześnie jest bardzo względnie prosty
+
+i składnie też ma taką zupełnie spoko nie jakaś barokowa tylko tam nic nie ma jakby 
+
+
+
+w sensie jak ktoś prologa zrozumiea a to nie trudne to całą resztę też zrozumie
+
+
+
+gdzie jest może mała pułapka no jest w ty że trzeba z nt tzn jest takie małe no bo w czym jest prolog napisany to jest to pytanie i jak konkretnie   no więc tutaj jakby jedna czy dwie odpowiedzi no można powiedzieć że
+
+są takie maszyny sprzętowe  a można pow a można powiedzieć no zaraz jest assembler przecież no j no i jak czy można w assemblerze napisać no no można ale  no ogólnie tu jkayb się chwilo robi mniej abstrakcyjnie i 
+
+jakby się zdecydować tzn no różne podejścia  imho może niezły pomysł jest poprzez interpreter rachunku pi który m łatwo napisać względnie chyba względnie w czymkolwiek tj czy to assemblrer czy to coś wyżej to jakby
+
+powinno się może dać co kto woli czy asm czy jakiś forth czy c   fortha fajnie znać bo to nie jest język jakby ograniczony  jakby taki programowalny kalkulator trochę i jakby też względnie można zo sobie wyobrazić
+
+
+jak ktoś myśli co to jest to prograomwanie to pewnie coś w stylu C mu przychodzi n do głowy  to też ja jest jakiś poun punkt wejścia bo to jest praktycznie pseudokod tak zwany którego imho nie należy nigdy używać
+
+
+no a prolog to jest takie cudo j które ludzie wymyślili i jest strasznie sprytne
+
+
+forth jakby też się sam wymyśla t bo to jakby no takie 
+
+
+a rachunek pi jest spoko bo jakby tak trochę może i mś myślenie działa jakby no więc 
+
+
+
+w prologu praktycznie nic albo mało co programowałem ale no jak ktoś tego nie n zna nie kojaryz kojarzy to żałował nie będzie bo tam ekstremalnie ciekawie jest po prostu
+
+
+tzn te języki typu no te inne popularne to są takie półabstrakcyjne jakby a prolog jest w pew pewł w pełni abstrakcyjny
+
+
+tzn c++ jest po to jak ktoś chce mieć naprawdę dobrą bibliotekę do c++ i żeby się wygodnie używało ale sam język c++ jest no to dla zaawansowanych ję jest język raczej nie należy tego od tego zacyznać czy coś bo 
+
+można gdzieś utknął utknąć jak się zna inne to m jakby jest to wtdy no kto jmu musi to musi tego używać nie wszyscy chcą np.
+
+
+no a jakby oól ogólnie to się chce używać chyba tych języków z typami i konkretną inferencą cy czy coś ale też omijać te odśmiecarki bo   no np no bo ogólnie to lebi lepiej się wystrzegać optymalizowalnych systemów
+
+a niestety java to jest przepis na optymalizowanie bez końca i kręcenie tym i można zdrowie stracić to też tam nie należy wchodzić zaczynać to jest niebezpieczny język to tylko by jakiś słaby biznes chciał ludzi od tego
+
+
+
+no zdaje się że te c++ rust swift to są różne języki ale wszystkie best bez odśmiecarek i jakby zaawansowane rzeczy się w tym daje pisać jak ktoś chce cośtam szybko działające
+
+
+haskella znać wypada po prostu  no język sam w miare prosty a biblioteki to tam są dość kosmiczne też
+
+
+no ogólnie t no to się patrzy jakie biblioteki są dostępne żeby się nie napsi napisać niewiaodmo ile
+
+
+te różne języki to takie trochę materiały do szycia ubrań no różne są wymagania i różne parametry tych materiałów no ze wszystkiego się da coś uszyć no ale to potem w różnych warunkach działać będzie różnie
+
+
+ogólnie pytanie jak się jak szybko ma powstać program i jak szybko ma potem zostać skasowany to też jakby  i jak bardzo spokojnie chce się spać pota potem
+
+także tak prolog ale też umieć napisać prologa
+
+
+
+jeszcze takie podejście że można jakby zaznajomoi zaznajomić się z assemblerem poprzez jakis jakiś debuger graficzny to wtedy jakby można się zorientować że to taki jakby trochę kalkulator jest i też nietrudne
+
+
+cat to jest fajny język też ta takie języki konkatencyjne cyz  czy tam stosowe jakieś elegencjki eleganckie
+
+
+no i co rachunek kombinatorów ski przez jakiegoś kolesia z chyba żydowskim nazwiskiem po niemiecku w moskwie papier ze sto lat temu wydany napisany opublikowany
+
+
+notacyjnei czy cośtam genzen jesszcze jakieś bnfy wiedzieć może jak czytać ale teoria tam to trochę jest rozbudowana jes jednak
+
+bla bla bla
+
+
+nie nie znnam się z słabo się znam bo i tak mi ta tzw rzeczwystość chodzi na zasadach takich że w że nie wiem w czym to jest napisane i no nie chce mi się czegoś bez sensu się dowiadywać a nie iwem co to jest
+
+
+a że javascript jest popularny ja wo w ogóle nie nzma to jest język ze słabą c historią nie chce mi się a no ale ogólnie tak jak ktoś to zna to tam mnóstwo bibliotek i też sobie no radzą sobie ludzie ewidentnie
+
+tzn w sensie nic tam prawie nie pisałem no ja ogó no w no  w no wogle jak sie moge zapytac o typ wyrazenia interpreter to no
+
+
+tzn to jest juz takie rozwazania no to jest jezyk specjalistyczny po prostu no to nie jest jezyk ogolnego przeznaczenia
+
+
+tz n wyszlo ze chyba jest no ale no 
+
+
+no to  sa wszystko poo podobne jakostam jezyki tae  tam nie wiem ruby sal smalltalki pythony javascripytn nie wiem czy dobrze wsadzam do jednego wora ale to sa wariacje na jeden temat co sie lisp nap nazywa s czy inny c c schee sh s scheme
+
+rozne skladnie rozne szczegoly inaczej rozwiaznane waale ale wszystko jeden desen jes jeden tm temat
+
+
+nie zna m znie mzsi snie nie chd c nie chce sie nzamc znac jakby troche tego jest wiecej ka jakies     tzn tam sa te odsmicearki tego nie 
+
+perl tcl tam chyba nie ma
+
+
+na e serio to chyba tylko l tzn nie tylko ale leana lean c bym chcial znac ale nie znam sie na tyle zeby no cokolwiek powiedziec ale to tez wypada trc troce chyba
+
+
+kweista jest taka zeby znac jak najbardziej abstrakcyjny jezyk no i tu trudniej no ilestam jesty tych jezykow uznawa czy takich ktore sa abstrakcyjne ale no sa tez jezyki  no gdzie t duzo dobrego softu powa powstalo dobre bil biblioteki takie rzeczy
+
+i co z tego nic 
+papa
