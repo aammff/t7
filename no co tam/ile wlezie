@@ -1,0 +1,39 @@
+ile wlezie
+
+byl jest taki plik gdziestam ewolucja programisty i tam przyklady przykladziki od najprostszych do najtrudniejszych
+
+i np mozna tak ze costam stan co tj to jest stan
+
+no i w asm to np moxna mozna tak mov ax, i tu jakas liczba nie wiem jaka
+
+w c to mozna tak ze typ nazwa = wartosc i tu srednik
+
+i tu eksperyment robie kopiuj wklej i z takiej pracy 
+
+
+-- State
+get(S) :- shift(get(S)).
+put(S) :- shift(put(S)).
+run_state(Goal,Sin,Sout) :-
+reset(Goal,Cont,Command),
+( Cont == 0 ->
+Sout = Sin
+; Command = get(S) ->
+S = Sin,
+run_state(Cont,Sin,Sout)
+; Command = put(S) ->
+run_state(Cont,S,Sout)
+).
+
+Fig. 1. Effect handler expressing the State monad (left) (...)
+
+
+iclp2013 kropka pe de ef
+
+no fajno fajnie jak ktos kuma kojarzy haskell to raczej czaji chyba co tu sie dziejie dzieje w ale ogolnie smiesznie
+
+
+
+czy w asm sa listy no niby nie ma ale sa bo tak
+
+mozna napisac mov ax, oj mov [ax] , costam  i to jest taki tryb adresowania po prostu  mov [ax+costam}, costam innego chyba tez nawet mozna a jesli i nie to zawsze jest takie cos jak lea load effective address
