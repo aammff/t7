@@ -1,0 +1,11 @@
+prototypowanie oprogramowania
+
+od czasu do czasu na wikipedii można trafić na przemyconą cudem jakimś wiedzę typu wiedzowego i tak dla przykładu tutaj https://en.wikipedia.org/wiki/Palm_OS jest taki fragment
+
+"A roughly R4RS-compatible implementation of Scheme, LispMe, provides the Palm platform with a GPL-licensed onboard Lisp REPL with some Palm OS-specific adaptations, but although it is functionally a compiler it does not produce code that operates outside the development environment, so its use is restricted to prototyping. "
+
+teraz już dobrze wiadomo czym jest python i podobne  tak bardzo wiele osób bardzo często regularnie ma pomysły jak ograniczyć tylko troszeczkę tak leciutko pythona aby wyprodukować prawdziwy nawias t m nawias język programowania
+
+takich grup i pomysłów na przestrzeni czasowej było bardzo wiele i nikomu nie udało się uzgodnić czy dojść do porozumienia ile to tylko troszeczkę i jak ma wyglądać
+
+no jest to taka rodzina systemów prototypowania oprogramowania  to samo jest jak taki niby język ma wmontowaną odśmiecarkę to też się dostaje code that does not operate outside the development environment  tj tym development environment jest runtime z odśmiecarką
